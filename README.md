@@ -73,14 +73,14 @@ Installing Python on Windows takes a series of few easy steps.
    - Sustainable Development Goal 12 encourages more sustainable consumption and production patterns through various measures, including specific policies and international agreements on the management of materials that are toxic to the environment.
 ## 🫂[Meet the Memebers](#meet-the-members)
 <img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/9625be36-ade6-4255-9568-f8a286a6c5b6" width = "200" height="200"/>
-Alyssa Marie D. Hernandez
-22-06424
+  Alyssa Marie D. Hernandez  
+  22-06424
 <img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/ff72f6fe-7e48-449b-bb80-9883c4899213" width="200" height="200"/>
-Lady Crissa L. Matining
-22-09416
+  Lady Crissa L. Matining  
+  22-09416
 <img src ="https://github.com/Matining/KO.py-Billing-System/assets/153246826/32d92518-2705-4621-a9fb-44a21b970442" width= "200" height="200"/>
-Angel P. Peradilla
-22-00673
+  Angel P. Peradilla  
+  22-00673
 
 
 
