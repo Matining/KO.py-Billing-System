@@ -7,6 +7,7 @@
     * 📦[Installation](#installation)  
     * 💻[System Preview](#system-preview)  
   * 🌍[Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
+  * 🫂[Meet the Memebers](#meet-the-members)
 ## 📕Introduction
    - Our group's Advanced Computer Programming Final Project, the KO.py Billing System, enables users to track sales more effectively. This facilitates the company's virtual organization of all sales. The user of this system must be familiar with the fundamentals of using any electronic equipment. In order for the system to provide quick service, it also arranges the quantity of orders that are received from clients. Together with the printing features, mutual trust may be built between the client and the business itself.
 ## 🌟Features
@@ -60,7 +61,7 @@ Installing Python on Windows takes a series of few easy steps.
   - ![image](https://github.com/Matining/.../assets/153246826/cac4dfc6-9c2a-46f8-865e-88b6601af912)
   - ![image](https://github.com/Matining/.../assets/153246826/70506796-09f0-4c65-9263-70587a4fddc4)
   - ![image](https://github.com/Matining/.../assets/153246826/ddc337e5-abf2-4bea-835d-8bfcf5c80bd6)
-## Sustainable Development Goals (SDG's)
+## 🌍Sustainable Development Goals (SDG's)
 - This system is aligned to the United Nations Sustainable Development Goals. Below are the goals the system is aligned:
 1. Sustainable Development Goal No.8
    - ![image](https://github.com/Matining/.../assets/153246826/eeca74c9-97cd-4398-9f90-a0f0e02a75df)
@@ -70,3 +71,16 @@ Installing Python on Windows takes a series of few easy steps.
    - ![image](https://github.com/Matining/.../assets/153246826/3a6478c1-204b-4c02-adb5-744ffbbb1817)
    - Ensure sustainable consumption and production patterns
    - Sustainable Development Goal 12 encourages more sustainable consumption and production patterns through various measures, including specific policies and international agreements on the management of materials that are toxic to the environment.
+## 🫂[Meet the Memebers](#meet-the-members)
+![image](https://github.com/Matining/KO.py-Billing-System/assets/153246826/9625be36-ade6-4255-9568-f8a286a6c5b6)
+Alyssa Marie D. Hernandez
+22-06424
+![image](https://github.com/Matining/KO.py-Billing-System/assets/153246826/ff72f6fe-7e48-449b-bb80-9883c4899213)
+Lady Crissa L. Matining
+22-09416
+![image](https://github.com/Matining/KO.py-Billing-System/assets/153246826/32d92518-2705-4621-a9fb-44a21b970442)
+Angel P. Peradilla
+22-00673
+
+
+
