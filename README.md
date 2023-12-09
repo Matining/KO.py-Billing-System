@@ -1,13 +1,13 @@
 # Table of Contents
-  * 📕[Introduction](#introduction)
-  * 🌟[Features](#features)      
-  * 😃[Getting Started](#getting-started)  
-    * 🛠[Prerequisites](#prerequisites)
-    * 📦[Installation](#installation)  
-    * 💻[System Preview](#system-preview)  
-  * 🌍[Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
-  * 🎥 [Video Presentation](#video-presentation)
-  * 🤵[Meet the Memebers](#meet-the-members)
+  * 📕[Introduction](#📕introduction)
+  * 🌟[Features](#🌟features)      
+  * 😃[Getting Started](#😃getting-started)  
+    * 🛠[Prerequisites](#🛠prerequisites)
+    * 📦[Installation](#📦installation)  
+    * 💻[System Preview](#💻system-preview)  
+  * 🌍[Sustainable Development Goals (SDG's)](#🌍sustainable-development-goal-(SDG's))
+  * 🎥 [Video Presentation](#🎥video-presentation)
+  * 🤵[Meet the Memebers](#🤵meet-the-members)
   * [Contribution](#contribution)
 ## 📕Introduction
    - Our group's Advanced Computer Programming Final Project, the KO.py Billing System, enables users to track sales more effectively. This facilitates the company's virtual organization of all sales. The user of this system must be familiar with the fundamentals of using any electronic equipment. In order for the system to provide quick service, it also arranges the quantity of orders that are received from clients. Together with the printing features, mutual trust may be built between the client and the business itself.
@@ -81,7 +81,6 @@ Installing Python on Windows takes a series of few easy steps.
 ## 🎥 Video Presentation
 For further details of our system, kindly see the link below:
 <p align = "center>
- 
   [Video Presentation Final Project](https://drive.google.com/file/d/1ZUNDHN2BaqgJWkj3CCdkNS0dMmoX74Ag/view?usp=sharing)
  
  </p>
