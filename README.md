@@ -9,6 +9,7 @@
     * 💻[System Preview](#system-preview)  
   * 🌍[Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
   * 🫂[Meet the Memebers](#meet-the-members)
+  * [Contribution](#contribution)
 ## 📕Introduction
    - Our group's Advanced Computer Programming Final Project, the KO.py Billing System, enables users to track sales more effectively. This facilitates the company's virtual organization of all sales. The user of this system must be familiar with the fundamentals of using any electronic equipment. In order for the system to provide quick service, it also arranges the quantity of orders that are received from clients. Together with the printing features, mutual trust may be built between the client and the business itself.
 ## 🌟Features
@@ -101,4 +102,7 @@ Installing Python on Windows takes a series of few easy steps.
   (22-00673)
 </h3>
 
+<p align = "center">
+<img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/a5c7b9ea-9dc2-4452-84a7-3d5fb78281e2">
+</p>
 
