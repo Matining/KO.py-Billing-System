@@ -1,6 +1,6 @@
 # Table of Contents
   * 📕[Introduction](#📕introduction)
-  * 🌟[Features](#🌟features)      
+  * 🌟[Features](#features)      
   * 😃[Getting Started](#😃getting-started)  
     * 🛠[Prerequisites](#🛠prerequisites)
     * 📦[Installation](#📦installation)  
@@ -11,7 +11,7 @@
   * [Contribution](#contribution)
 ## 📕Introduction
    - Our group's Advanced Computer Programming Final Project, the KO.py Billing System, enables users to track sales more effectively. This facilitates the company's virtual organization of all sales. The user of this system must be familiar with the fundamentals of using any electronic equipment. In order for the system to provide quick service, it also arranges the quantity of orders that are received from clients. Together with the printing features, mutual trust may be built between the client and the business itself.
-## 🌟Features
+## 🌟 Features
    - Customer Details👩🏼👨🏽
      - Inputting the name of the customer for their orders.
      - Shows their receipt number.
@@ -84,7 +84,8 @@ For further details of our system, kindly see the link below:
   [Video Presentation Final Project](https://drive.google.com/file/d/1ZUNDHN2BaqgJWkj3CCdkNS0dMmoX74Ag/view?usp=sharing)
  
  </p>
-## 🤵[Meet the Memebers]
+ 
+## 🤵Meet the Memebers
 <p align = "center">
 <img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/9625be36-ade6-4255-9568-f8a286a6c5b6" width = "200" height="200"/>
 </p>
