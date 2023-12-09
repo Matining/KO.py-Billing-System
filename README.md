@@ -102,6 +102,7 @@ Installing Python on Windows takes a series of few easy steps.
   (22-00673)
 </h3>
 
+## Contribution
 <p align = "center">
 <img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/a5c7b9ea-9dc2-4452-84a7-3d5fb78281e2" width = "500" height = "400">
 </p>
