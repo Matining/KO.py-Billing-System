@@ -4,10 +4,10 @@
   * 😃[Getting Started](#Getting-Started)  
     * 🛠[Prerequisites](#Prerequisites)
     * 📦[Installation](#Installation)  
-    * 💻[System Preview](#System-Preview)  
-  * 🌍[Sustainable Development Goals (SDG's)](#Sustainable-Development-Goals-(SDG's))
+    * 💻[System Preview](#System-Preview) 
+  * 🌍[Sustainable Development Goals (SDG's)](#Sustainable-Development-Goals(SDG's))
   * 🎥[Video Presentation](#Video-Presentation)
-  * 🤵[Meet the Memebers](#Meet-the-Members)
+  * 🤵[Meet the Members](#Meet-the-Members)
   * [Contribution](#Contribution)
 ## 📕Introduction
    - Our group's Advanced Computer Programming Final Project, the KO.py Billing System, enables users to track sales more effectively. This facilitates the company's virtual organization of all sales. The user of this system must be familiar with the fundamentals of using any electronic equipment. In order for the system to provide quick service, it also arranges the quantity of orders that are received from clients. Together with the printing features, mutual trust may be built between the client and the business itself.
@@ -85,7 +85,7 @@ For further details of our system, kindly see the link below:
  
  </p>
  
-## 🤵Meet the Memebers
+## 🤵Meet the Members
 <p align = "center">
 <img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/9625be36-ade6-4255-9568-f8a286a6c5b6" width = "200" height="200"/>
 </p>
