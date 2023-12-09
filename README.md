@@ -103,6 +103,6 @@ Installing Python on Windows takes a series of few easy steps.
 </h3>
 
 <p align = "center">
-<img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/a5c7b9ea-9dc2-4452-84a7-3d5fb78281e2" width = "200" height = "400">
+<img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/a5c7b9ea-9dc2-4452-84a7-3d5fb78281e2" width = "500" height = "400">
 </p>
 
