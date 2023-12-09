@@ -5,7 +5,7 @@
     * 🛠[Prerequisites](#Prerequisites)
     * 📦[Installation](#Installation)  
     * 💻[System Preview](#System-Preview) 
-  * 🌍[Sustainable Development Goals (SDG's)](#Sustainable-Development-Goals-(SDG's))
+  * 🌍[Sustainable Development Goals (SDG's)](#Sustainable-Development-Goals-SDGs)
   * 🎥[Video Presentation](#Video-Presentation)
   * 🤵[Meet the Members](#Meet-the-Members)
   * [Contribution](#Contribution)
