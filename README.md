@@ -1,5 +1,3 @@
-# KO.py-Billing-System
-  [Video Presentation Final Project](https://drive.google.com/file/d/1ZUNDHN2BaqgJWkj3CCdkNS0dMmoX74Ag/view?usp=sharing)
 # Table of Contents
   * 📕[Introduction](#introduction)
   * 🌟[Features](#features)      
@@ -8,7 +6,8 @@
     * 📦[Installation](#installation)  
     * 💻[System Preview](#system-preview)  
   * 🌍[Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
-  * 🫂[Meet the Memebers](#meet-the-members)
+  * 🎥 Video Presentation(#video-presentation)
+  * 🤵[Meet the Memebers](#meet-the-members)
   * [Contribution](#contribution)
 ## 📕Introduction
    - Our group's Advanced Computer Programming Final Project, the KO.py Billing System, enables users to track sales more effectively. This facilitates the company's virtual organization of all sales. The user of this system must be familiar with the fundamentals of using any electronic equipment. In order for the system to provide quick service, it also arranges the quantity of orders that are received from clients. Together with the printing features, mutual trust may be built between the client and the business itself.
@@ -79,6 +78,9 @@ Installing Python on Windows takes a series of few easy steps.
    
    - Ensure sustainable consumption and production patterns
    - Sustainable Development Goal 12 encourages more sustainable consumption and production patterns through various measures, including specific policies and international agreements on the management of materials that are toxic to the environment.
+## 🎥 Video Presentation
+For further details of our system, kindly see the link below:
+  [Video Presentation Final Project](https://drive.google.com/file/d/1ZUNDHN2BaqgJWkj3CCdkNS0dMmoX74Ag/view?usp=sharing)
 ## 🫂[Meet the Memebers](#meet-the-members)
 <p align = "center">
 <img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/9625be36-ade6-4255-9568-f8a286a6c5b6" width = "200" height="200"/>
@@ -103,7 +105,21 @@ Installing Python on Windows takes a series of few easy steps.
 </h3>
 
 ## Contribution
-<p align = "center">
-<img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/a5c7b9ea-9dc2-4452-84a7-3d5fb78281e2" width = "500" height = "400">
+<p>
+* **Hernandez, Alyssa Marie D.**: Programer, Video Presentation (40%)
+* **Matining, Lady Crissa L.**: Programmer, Readme(Documentation) (20%)
+* **Peradilla, Angel P.**: Programmer, PPT Presentation(40%)
+
+Self-Assessment
+We conducted a self-assessment of our project based on various criteria. Here are the ratings for the criteria:
+* **Code Reusability**: 4
+* **Maintainability**: 3
+* **Scalability**: 3
+* **Execution**: 4
+* **Originality**: 4
+* **Overall Impression**: 4
+
+Overall Grade: 92
+
 </p>
 
