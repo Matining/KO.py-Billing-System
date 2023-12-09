@@ -6,7 +6,7 @@
     * 📦[Installation](#installation)  
     * 💻[System Preview](#system-preview)  
   * 🌍[Sustainable Development Goals (SDG's)](#sustainable-development-goal-(SDG's))
-  * 🎥 Video Presentation(#video-presentation)
+  * 🎥 [Video Presentation](#video-presentation)
   * 🤵[Meet the Memebers](#meet-the-members)
   * [Contribution](#contribution)
 ## 📕Introduction
@@ -81,7 +81,7 @@ Installing Python on Windows takes a series of few easy steps.
 ## 🎥 Video Presentation
 For further details of our system, kindly see the link below:
   [Video Presentation Final Project](https://drive.google.com/file/d/1ZUNDHN2BaqgJWkj3CCdkNS0dMmoX74Ag/view?usp=sharing)
-## 🫂[Meet the Memebers](#meet-the-members)
+## 🤵[Meet the Memebers]
 <p align = "center">
 <img src = "https://github.com/Matining/KO.py-Billing-System/assets/153246826/9625be36-ade6-4255-9568-f8a286a6c5b6" width = "200" height="200"/>
 </p>
@@ -106,6 +106,7 @@ For further details of our system, kindly see the link below:
 
 ## Contribution
 <p>
+ 
 * **Hernandez, Alyssa Marie D.**: Programer, Video Presentation (40%)
 * **Matining, Lady Crissa L.**: Programmer, Readme(Documentation) (20%)
 * **Peradilla, Angel P.**: Programmer, PPT Presentation(40%)
