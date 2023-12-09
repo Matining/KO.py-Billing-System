@@ -5,7 +5,7 @@
     * 🛠[Prerequisites](#Prerequisites)
     * 📦[Installation](#Installation)  
     * 💻[System Preview](#System-Preview) 
-  * 🌍[Sustainable Development Goals (SDG's)](#Sustainable-Development-Goals(SDG's))
+  * 🌍[Sustainable Development Goals (SDG's)](#Sustainable-Development-Goals-(SDG's))
   * 🎥[Video Presentation](#Video-Presentation)
   * 🤵[Meet the Members](#Meet-the-Members)
   * [Contribution](#Contribution)
@@ -80,10 +80,8 @@ Installing Python on Windows takes a series of few easy steps.
    - Sustainable Development Goal 12 encourages more sustainable consumption and production patterns through various measures, including specific policies and international agreements on the management of materials that are toxic to the environment.
 ## 🎥Video Presentation
 For further details of our system, kindly see the link below:
-<p align = "center>
   [Video Presentation Final Project](https://drive.google.com/file/d/1ZUNDHN2BaqgJWkj3CCdkNS0dMmoX74Ag/view?usp=sharing)
- 
- </p>
+
  
 ## 🤵Meet the Members
 <p align = "center">
