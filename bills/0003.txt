@@ -1,0 +1,26 @@
+	******WELCOME CUSTOMER******
+
+Friday, December 08, 2023 
+22:04:43 PM
+
+Receipt Number: 0003
+Customer Name: yourName
+
+============================================
+Product		  Quantity		  Price
+============================================
+
+Original			1	  130.00
+Belgian Chocolate			1	  130.00
+Espresso			1	  99.00
+
+-------------------------------------------
+  TOTAL				  431.00
+
+  CASH				  500.00
+  CHANGE				  69.00
+-------------------------------------------
+VATable Sales				  359.00
+VAT AMOUNT				  71.80
+-------------------------------------------
+		 THANK YOU!
